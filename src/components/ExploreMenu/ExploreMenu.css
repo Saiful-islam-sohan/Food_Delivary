@@ -1,0 +1,30 @@
+.explore-menu{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+
+
+}
+.explore-menu h1{
+    color:#262626;
+
+}
+
+.explore-menu-lite-item{
+    margin-top:10px;
+    color:#747474;
+    font-size:max(1.4vw,16px);
+    cursor:pointer;
+
+}
+.explore-menu hr{
+    margin:20px,0;
+    height:2px;
+    background-color:#e2e2e2;
+    border:none;
+}
+.explore-menu-lite-item .active{
+    border:4px solid #ff6347;
+    padding:2px;
+
+}
