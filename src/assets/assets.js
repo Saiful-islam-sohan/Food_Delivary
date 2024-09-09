@@ -11,6 +11,9 @@ import ratting from './ratting.jpg'
 import plus from './plus.jpg'
 import minus from './minus.jpg'
 import plusgreen from './plusgreen.jpg'
+import facebook from './facebook.jpg'
+import linkedin from './linkedin.jpg'
+import twitter from './twitter.jpg'
 export const assets = {
   logo,
   search,
@@ -24,7 +27,10 @@ export const assets = {
   ratting,
   plus,
   minus,
-  plusgreen
+  plusgreen,
+  facebook,
+  linkedin,
+  twitter
 };
 export const food_list = [
   {
