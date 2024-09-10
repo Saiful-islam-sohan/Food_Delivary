@@ -16,6 +16,7 @@ import linkedin from './linkedin.jpg'
 import twitter from './twitter.jpg'
 import playstore from './playstor.jpg'
 import appStore from './AppStor.jpg'
+import cross from './cross.jpg'
 export const assets = {
   logo,
   search,
@@ -34,7 +35,8 @@ export const assets = {
   linkedin,
   twitter,
   playstore,
-  appStore
+  appStore,
+  cross
 };
 export const food_list = [
   {
