@@ -14,6 +14,8 @@ import plusgreen from './plusgreen.jpg'
 import facebook from './facebook.jpg'
 import linkedin from './linkedin.jpg'
 import twitter from './twitter.jpg'
+import playstore from './playstor.jpg'
+import appStore from './AppStor.jpg'
 export const assets = {
   logo,
   search,
@@ -30,7 +32,9 @@ export const assets = {
   plusgreen,
   facebook,
   linkedin,
-  twitter
+  twitter,
+  playstore,
+  appStore
 };
 export const food_list = [
   {
