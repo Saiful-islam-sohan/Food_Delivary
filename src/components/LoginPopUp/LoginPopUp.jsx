@@ -9,7 +9,7 @@ const LoginPopUp = ({ setShowLogin }) => {
         <div className='fixed inset-0 z-10 flex items-center justify-center bg-black bg-opacity-50'>
             {/* Login Form Container */}
             <form className='relative bg-white w-full max-w-[400px] p-6 rounded-lg shadow-lg text-gray-700'>
-                {/* Header */}
+                  {/* this is header */}
                 <div className='flex items-center justify-between mb-4'>
                     <h2 className='text-2xl font-semibold'>{currState}</h2>
                     <img onClick={() => setShowLogin(false)} src={assets.cross} alt="Close" className='w-[30px] h-[30px] cursor-pointer' />
